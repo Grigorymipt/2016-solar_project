@@ -102,7 +102,7 @@ def save_file_dialog():
     write_space_objects_data_to_file(out_filename, space_objects)
 
 
-
+#hello
 def main():
     """Главная функция главного модуля.
     Создаёт объекты графического дизайна библиотеки tkinter: окно, холст, фрейм с кнопками, кнопки.

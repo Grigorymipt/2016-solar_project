@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74fe1382-b9b4-403b-a5c8-be2b5eda0fa1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/double_star.txt" beforeDir="false" afterPath="$PROJECT_DIR$/double_star.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/one_satellite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/one_satellite.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solar_input.py" beforeDir="false" afterPath="$PROJECT_DIR$/solar_input.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solar_system.txt" beforeDir="false" afterPath="$PROJECT_DIR$/solar_system.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solar_vis.py" beforeDir="false" afterPath="$PROJECT_DIR$/solar_vis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solar_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/solar_main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
