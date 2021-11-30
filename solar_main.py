@@ -6,8 +6,7 @@ from tkinter.filedialog import *
 from solar_vis import *
 from solar_model import *
 from solar_input import *
-
-"comment_1"
+from solar_objects import *
 
 perform_execution = False
 """Флаг цикличности выполнения расчёта"""
@@ -101,6 +100,7 @@ def save_file_dialog():
     """
     out_filename = asksaveasfilename(filetypes=(("Text file", ".txt"),))
     write_space_objects_data_to_file(out_filename, space_objects)
+
 
 
 def main():
