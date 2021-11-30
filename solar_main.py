@@ -7,6 +7,8 @@ from solar_vis import *
 from solar_model import *
 from solar_input import *
 
+"comment"
+
 perform_execution = False
 """Флаг цикличности выполнения расчёта"""
 
